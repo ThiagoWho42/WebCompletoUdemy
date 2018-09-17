@@ -1,0 +1,1 @@
+let valor // não inicializada
